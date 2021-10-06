@@ -1,0 +1,13 @@
+spring:
+  rabbitmq:
+    host: 192.168.147.137
+    port: 5672
+    username: root
+    password: fengzhixin0
+    listener:
+      simple:
+        acknowledge-mode: manual
+    publisher-confirm-type: correlated
+    publisher-returns: true
+    template:
+      mandatory: true
