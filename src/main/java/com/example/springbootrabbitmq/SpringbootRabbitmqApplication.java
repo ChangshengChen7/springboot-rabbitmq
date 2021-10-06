@@ -16,7 +16,8 @@ public class SpringbootRabbitmqApplication {
         System.out.println("455master");
         System.out.println("4hotttttttttt5555");
         System.out.println("pulllllllllll");
-        
+        System.out.println("pushhhhhhhhhhhhhhhh");
+
     }
 
 }
